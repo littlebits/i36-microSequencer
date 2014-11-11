@@ -1,0 +1,5 @@
+Programming Instructions
+
+Step 0) You must be using the Renesas programmer and software. Select this chip: R5F10278
+
+Step 1) Flash the micro controller with the accompanying .hex file.
